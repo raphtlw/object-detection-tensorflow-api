@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>PXL_20210618_080323423.MP.jpg</filename>
+	<path>/home/raphael/Desktop/Projects/object-detection-tensorflow-api/dataset/training/val/PXL_20210618_080323423.MP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>schweppes drink can bitter lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>1142</ymin>
+			<xmax>1839</xmax>
+			<ymax>2978</ymax>
+		</bndbox>
+	</object>
+</annotation>

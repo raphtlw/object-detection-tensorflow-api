@@ -1,0 +1,26 @@
+<annotation>
+	<folder>schweppes_drink_can_tonic_water</folder>
+	<filename>PXL_20210618_075930215.jpg</filename>
+	<path>/home/raphael/Desktop/Projects/object-detection-tensorflow-api/dataset/training/train/schweppes_drink_can_tonic_water/PXL_20210618_075930215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>schweppes drink can tonic water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymin>1111</ymin>
+			<xmax>1827</xmax>
+			<ymax>2927</ymax>
+		</bndbox>
+	</object>
+</annotation>

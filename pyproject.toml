@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "object-detection-tensorflow-api"
+version = "0.1.0"
+description = ""
+authors = ["Raphael Tang <raphpb1912@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.7.7,<4.0"
+tensorflow = "1.15.2"
+Cython = "^0.29.23"
+contextlib2 = "^0.6.0"
+Pillow = "^8.2.0"
+lxml = "^4.6.3"
+jupyter = "^1.0.0"
+matplotlib = "^3.4.2"
+opencv-python = "^4.5.2"
+split-folders = "^0.4.3"
+pandas = "^1.2.4"
+tqdm = "^4.61.1"
+
+[tool.poetry.dev-dependencies]
+black = {version = "^21.6b0", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

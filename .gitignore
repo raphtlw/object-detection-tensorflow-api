@@ -1,0 +1,5 @@
+.venv/
+object_detection/*
+!object_detection/empty
+object_detection_notebooks/**/ssd*
+dataset/training/**/*.record

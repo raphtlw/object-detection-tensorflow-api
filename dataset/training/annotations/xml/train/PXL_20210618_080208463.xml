@@ -1,0 +1,26 @@
+<annotation>
+	<folder>schweppes_drink_can_bitter_lemon</folder>
+	<filename>PXL_20210618_080208463.jpg</filename>
+	<path>/home/raphael/Desktop/Projects/object-detection-tensorflow-api/dataset/training/train/schweppes_drink_can_bitter_lemon/PXL_20210618_080208463.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>schweppes drink can bitter lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1157</xmin>
+			<ymin>1560</ymin>
+			<xmax>2188</xmax>
+			<ymax>3136</ymax>
+		</bndbox>
+	</object>
+</annotation>
