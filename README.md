@@ -70,6 +70,8 @@ All the models that are used in this repository are located [here](https://drive
     
     There are additional parameters that may affect how much RAM is consumed by the training process, as well as the quality of the training. Things like the batch size or how many batches TensorFlow can prefetch and keep in memory may considerably increase the amount of RAM necessary, but I won't go over those here as there is too much trial and error in adjusting those.
 
+3. To train the model, cd into the object_detection folder and do `python ../scripts/model_main.py --pipeline_config_path=$PIPELINE_CONFIG_PATH --model_dir=$MODEL_DIR --alsologtostderr`
+
 ### Useful links
 
 https://gist.github.com/douglasrizzo/c70e186678f126f1b9005ca83d8bd2ce \
