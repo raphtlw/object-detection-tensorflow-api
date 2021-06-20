@@ -51,7 +51,7 @@ All the models that are used in this repository are located [here](https://drive
 
 5. Create a "label map" for the classes using scripts/generate_pbtxt.py.
 
-6. Convert each of your CSV files into two TFRecord files (eg. train.record and eval.record), a serialized data format that TensorFlow is most familiar with.
+6. Using scripts/generate_tfrecord.py, convert each of your CSV files into two TFRecord files (eg. train.record and eval.record), a serialized data format that TensorFlow is most familiar with.
 
 #### Training the model
 
