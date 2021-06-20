@@ -18,6 +18,11 @@ Protobuf is used to build the object_detection/protos/*.proto files. When they a
 
 To test the setup and/or maintenance environment and ensure that it is properly set up, run `python object_detection/builders/model_builder_tf2_test.py` from the models/research directory.
 
+## TODO
+
+- Create a Dockerfile and test locally on G14
+- Fix the training issue
+
 ## Notes
 
 ### Split dataset into training and test images
